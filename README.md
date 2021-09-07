@@ -12,7 +12,7 @@
      - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.  <br />
   - 🎓 &nbsp; Studying everyday, I love to learn by myself and read a lot of books about Software Engineering. <br />
   - 🌱 &nbsp; Currently Improving my knowledge about software architecture and best practices to develop like clean code.<br />
-  - 🌐 &nbsp; Open for project collaboration.  <br /><br />
+  <br />
   </p>
   
  [![Linkedin Badge](https://img.shields.io/badge/-Edwin%20Benalcázar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwinbenalcazar/)](https://www.linkedin.com/in/edwinbenalcazar/)
