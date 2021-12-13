@@ -9,9 +9,9 @@
   
   <h3> 👨🏻‍💻 About Me </h3>
   <p align="left">
-     - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks more than 8 years.  <br />
-  - 🎓 &nbsp; Studying everyday, I love to learn by myself and read a lot of books about Software Engineering. <br />
-  - 🌱 &nbsp; Currently Improving my knowledge about software architecture and best practices to develop like clean code or code smells.<br />
+     - 🤔 &nbsp; Exploring new technologies and developing software solutions, building some quick hacks for more than 8 years.  <br />
+  - 🎓 &nbsp; Studying every day, I love to learn by myself through online platforms and I enjoy reading a lot of books about Software Engineering. <br />
+  - 🌱 &nbsp; Currently Improving my knowledge about software architecture and best practices to develop like clean code or code smells, SOLID principles and more.<br />
   <br />
   </p>
   
