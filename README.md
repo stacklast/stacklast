@@ -18,7 +18,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-Edwin%20Benalcázar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwinbenalcazar/)](https://www.linkedin.com/in/edwinbenalcazar/)
   
   <a href="https://discord.gg/stacklast" target="_blank"> stacklast#0339
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DavidMarioLC" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
  </a>
   
   <p>
