@@ -22,7 +22,7 @@
  </a>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=stacklast&show_icons=true" alt="stacklast" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=stacklast&show_icons=true&cache_seconds=21600" alt="stacklast" /> 
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacklast&hide=TeX&layout=compact" alt="stacklast" /> 
