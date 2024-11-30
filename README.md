@@ -25,7 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=stacklast&show_icons=true&cache_seconds=21600" alt="stacklast" /> 
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacklast&hide=TeX&layout=compact" alt="stacklast" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacklast&hide=TeX&layout=compact&cache_seconds=21600" alt="stacklast" /> 
   </p>
   <p>
     <img src="https://media.giphy.com/media/citBl9yPwnUOs/source.gif" alt="program" />
