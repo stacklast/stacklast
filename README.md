@@ -10,7 +10,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
   <p align="left">
      - 🤔 &nbsp; Exploring new technologies and developing software solutions, building some quick hacks for more than 12 years.  <br />
-  - 🎓 &nbsp; Studying every day, I love to learn by myself through online platforms and I enjoy reading a lot of books about Software Engineering / DevOps. <br />
+  - 🎓 &nbsp; Studying every day, I love to learn by myself through online platforms and I enjoy reading a lot of books about Software Engineering / DevOps. I am studying Cybersecurity as well. <br />
   - 🌱 &nbsp; Currently Improving my knowledge about software architecture and best practices to develop like clean code or code smells, SOLID principles, TDD, BDD and more.<br />
   <br />
   </p>
