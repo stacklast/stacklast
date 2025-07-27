@@ -20,7 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=stacklast&show_icons=true&cache_seconds=21600" alt="stacklast" /> 
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacklast&hide=TeX,html,CSS,scss,coffeescript,less,sass,blade&layout=compact&cache_seconds=21600&exclude_repo=portafolio-angular,react-journal-app,opal-arcgis-angular,Awesome-Profile-README-templates,React-Gift-Expert-App,admin-proUdemy,instagram-feed,twittor,You-Dont-Need-JavaScript,payment-evolution-test,simiace,localizamed,obra-ya" alt="stacklast" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacklast&hide=TeX,html,CSS,scss,coffeescript,less,sass,blade&layout=compact&cache_seconds=21600&exclude_repo=portafolio-angular,react-journal-app,opal-arcgis-angular,Awesome-Profile-README-templates,React-Gift-Expert-App,admin-proUdemy,instagram-feed,twittor,You-Dont-Need-JavaScript,simiace,localizamed" alt="stacklast" /> 
   </p>
   <p>
     <img src="https://media.giphy.com/media/citBl9yPwnUOs/source.gif" alt="program" />
