@@ -7,7 +7,7 @@
   <p align="left">
      - 🤔 &nbsp; Exploring new technologies and developing software solutions, building quick hacks for over 12 years.  <br />
      - 🎓 &nbsp; Studying every day, I love to learn by myself through online platforms, and I enjoy reading many books about Software Engineering / DevOps. I consider myself a Cybersecurity practitioner as well.      <br />
-     - 🌱 &nbsp; Currently improving my knowledge about software architecture and best practices to develop like clean code or code smells, SOLID principles, TDD, BDD and more.<br />
+     - 🌱 &nbsp; Currently improving my knowledge about Artificial Intelligence Applied and the best practices to develop with clean code or code smells, SOLID principles, TDD, BDD and more.<br />
      <br />
   </p>
   
