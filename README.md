@@ -1,3 +1,8 @@
+ <picture decoding="async" loading="lazy">
+    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=stacklast&theme=crt">
+    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=stacklast&screen_effect=true&theme=blue_chill">
+    <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=stacklast&theme=crt">
+  </picture>
 <div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jetbrain+Mono&color=76F78C&lines=Think+twice,+code+once!;Keep+it+simple!">
   <h2 align="center"> 
@@ -12,16 +17,6 @@
   </p>
   
  [![Linkedin Badge](https://img.shields.io/badge/-Edwin%20Benalcázar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwinbenalcazar/)](https://www.linkedin.com/in/edwinbenalcazar/)
-  
-  <a href="https://discord.gg/stacklast" target="_blank"> stacklast#0339
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
- </a>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=stacklast&show_icons=true&cache_seconds=21600" alt="stacklast" /> 
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacklast&hide=TeX,html,CSS,scss,coffeescript,less,sass,blade&layout=compact&cache_seconds=21600&exclude_repo=portafolio-angular,react-journal-app,opal-arcgis-angular,Awesome-Profile-README-templates,React-Gift-Expert-App,admin-proUdemy,instagram-feed,twittor,You-Dont-Need-JavaScript,simiace,localizamed" alt="stacklast" /> 
-  </p>
   <p>
     <img src="https://media.giphy.com/media/citBl9yPwnUOs/source.gif" alt="program" />
   </p>
